@@ -6,7 +6,7 @@ Projeto desenvolvido como parte do Santander Bootcamp 2023 - Ciência de Dados c
 
 O objetivo é executar um processo de extração, transformação e carregamento de dados, explorando APIs e inteligência artificial.
 
-# 🧠 2. [Explorando IA Generativa em um Pipeline de ETL com Python](ADA)
+# 🧠 2. [Explorando APIs em um Pipeline de ELT com Python e Databricks](ADA)
 
 Projeto desenvolvido no âmbito do módulo de Extração de Dados I, na trilha de Engenharia de dados do programa Santander Coders 2023, em parceria com a Ada Tech.
 
