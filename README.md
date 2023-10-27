@@ -13,3 +13,9 @@ Projeto desenvolvido no âmbito do módulo de Extração de Dados I, na trilha d
 Desenvolvido com Databricks Community edition.
 
 O objetivo é criar um pipeline de dados ELT explorando APIs.
+
+# 🧠 3. [Engenharia de Dados e Garantia de Qualidade no Conjunto de Dados do Airbnb no Rio de Janeiro](ADA-II)
+
+Projeto desenvolvido por Andreza Lima no âmbito do módulo de Analytics Engineering, na trilha de Engenharia de dados do programa Santander Coders 2023, em parceria com a Ada Tech.
+
+Desenvolvido com Python, Pandas, Postgres SQL em uma instância AWS RDS e DBT.
